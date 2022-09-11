@@ -15,17 +15,17 @@
 ***
 ## Description
 
-This project [Dance Home Page]() was built using Semantic HTML and CSS from scratch. The main aim was to make the webpage based on the design provided and also make it responsive for all major devices. This project helped me in learning and brushing up concepts like **attribute-selectors**, **positions**, **text-stroke**, **pseudo classes :nth-child** and etc. The Project was completed under guidance of [Hitesh Choudhary](https://github.com/hiteshchoudhary), CTO Ineuron
+This project [Dance Home Page](https://dance-homeepage.netlify.app/) was built using Semantic HTML and CSS from scratch. The main aim was to make the webpage based on the design provided and also make it responsive for all major devices. This project helped me in learning and brushing up concepts like **attribute-selectors**, **positions**, **text-stroke**, **pseudo classes :nth-child** and etc. The Project was completed under guidance of [Hitesh Choudhary](https://github.com/hiteshchoudhary), CTO Ineuron
 
 ***
 
 ### Links for Project
 
-* [LIVE Project Link]()
+* [LIVE Project Link](https://dance-homeepage.netlify.app/)
 
-* [Youtube Video Demo]()
+* [Youtube Video Demo](https://youtu.be/XOYPOYYTgt8)
 
-* [Source Code]()
+* [Source Code](https://github.com/ShubhamSingh03/Dance-Home-Page)
 
 ***
 ### Built With 
@@ -101,17 +101,17 @@ This project [Dance Home Page]() was built using Semantic HTML and CSS from scra
 
 ### Checkout Portfolio & Other Projects
 
-#### [Personal Portfolio]()
+#### [Personal Portfolio](https://shubhambhoj.in/)
 
 
-#### [Findcoder Profile]()
+#### [Findcoder Profile](https://www.findcoder.io/u/shubham_singh)
 ***
 
 ### Connect with Me
 * [Mailto](mailto:shubhambhoj3@gmail.com)
-* [LinkedIn]()
-* [Github]()
-* [Findcoder]()
+* [LinkedIn](https://www.linkedin.com/in/shubham-singh-b122b7171/)
+* [Github](https://github.com/ShubhamSingh03)
+* [Findcoder](https://www.findcoder.io/u/shubham_singh)
 ***
 ***
 [go to top](#dance-home-page)
